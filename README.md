@@ -1,34 +1,44 @@
-# asdf
+# README Generator
 
-  ## Description 
-  asdf
+## Description
 
-  ## Table of Contents
-  - [Description](#Description)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
-  - [Contribute](#Contribute)
-  - [Testing](#Testing)
-  - [Questions](#Questions)
+This application was created to make the process of generating a high quality readme file as easy as possible
 
-  ## Installation 
-  asd
+## Table of Contents
 
-  ## Usage
-  fasdf
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contribute](#Contribute)
+- [Testing](#Testing)
+- [Questions](#Questions)
 
-  ## License
-   ![GitHub License](https://img.shields.io/badge/MIT-Version-blue) 
-  - [Click here](https://opensource.org/licenses/MIT) for more information on the license.
+## Installation
 
-  ## Contribute
-  asdf
+Simply clone the files from Github, run the command "npm i" and then the command "node index.js" and follow the prompts
 
-  ## Testing
-  asdf
-  
-  ## Questions
+## Usage
+
+None at this time
+
+## License
+
+![GitHub License](https://img.shields.io/badge/GPL-3.0-red)
+
+- [Click here](https://opensource.org/licenses/GPLv3) for more information on the license.
+
+## Contribute
+
+Nothing at this time
+
+## Testing
+
+No testing is necessary at this time
+
+## Questions
+
 Feel free to reach out with any questions
-- [asdf](mail.to:asdf) <br>
-- [GitHub](https://github.com/asdf)
+
+- [nickrizzo77277@gmail.com](mail.to:nickrizzo77277@gmail.com) <br>
+- [GitHub](https://github.com/izzo2323)
