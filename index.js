@@ -19,7 +19,12 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+  inquirer.prompt(questions).then((answer) => {
+    console.log(answer);
+    writeToFile("README.md", markdown(answer));
+  });
+}
 
 // Function call to initialize app
 init();
